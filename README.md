@@ -44,6 +44,9 @@ Add:
  - Descriptions of your potential projects. Feel free to list them out [1), 2), 3),...] or provide a longer description.
  - Who is on your team
 
+**The PIFSC Environmental Sciences Division (ESD) Team** is a diverse group of scientists that span data integration, pelagic longline fisheries, data management, and environmental modeling.  The ESD has several programs that focus on archipelagic research (benthic, fish, oceanography), pelagic research, protected species, and fisheries management. Rather than working on a specific project, our team strives to improve.
+
+
 
 ## Openscapes team
 
