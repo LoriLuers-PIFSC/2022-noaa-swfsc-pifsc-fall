@@ -44,7 +44,7 @@ Add:
  - Descriptions of your potential projects. Feel free to list them out [1), 2), 3),...] or provide a longer description.
  - Who is on your team
 
-**The PIFSC Environmental Sciences Division (ESD) Team** is a diverse group of scientists that span data integration, pelagic longline fisheries, data management, and environmental modeling.  The ESD has several programs that focus on archipelagic research (benthic, fish, oceanography), pelagic research, protected species, and fisheries management. Rather than working on a specific project, our team strives to improve.
+**The PIFSC Environmental Sciences Division (ESD) Team** is a diverse group of scientists that span data integration, pelagic longline fisheries, data management, and environmental modeling.  The ESD has several programs that focus on archipelagic research (benthic, fish, oceanography), pelagic research, protected species, and fisheries management. Rather than working on a specific project, our team strives to close gaps in open data science procedures. Juliette, the ESD Data Integrator,  focuses on achieving ease of collaboration with jurisdictional partner's data, hopefully by way of GitHub.  Justin, CIMAR Fish Ecologist, hopes to ensure reproducibility of analysis for estimations of species occurrence and density for easy collaboration. Lori, ESD Data Manager, strives to get consistency across the ESD with our internal GitLab usage as well as public-facing GitHub, along with increasing findability of datasets and R scripts. Phoebe, Research Oceanographic, has the main goal to collaborate on data processing and visualization across projects.
 
 
 
